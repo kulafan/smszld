@@ -752,7 +752,7 @@ utterances:
 isso: # <data_isso>
 
 waline:
-  enable: true #是否开启
+  enable: false #是否开启
   serverURL: waline.kulafan.com # Waline #服务端地址，就是部署的 Vercel 地址
   locale:
     placeholder: 无需登录·请留下邮箱以接收回复·来说两句吧~  #评论框的默认文字
