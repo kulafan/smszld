@@ -1,7 +1,12 @@
 ---
-abbrlink: '0'
+title: 终于难倒AIdeepseek的同题诗
+tags: []
+categories: []
+abbrlink: 9d1b2265
+date: 2025-02-09 12:00:00
 ---
-![cover_image](https://mmbiz.qpic.cn/sz_mmbiz_jpg/hVNLue76Eh9ticGXZCmnZic5MhzhefZpbIXnW1AcfNgmOn2MUzPP60J532lyeOkGQwFf6ia2Cl6cE8JQRiaHakWYQQ/0?wx_fmt=jpeg)
+
+![cover_image](20250209终于难倒AIdeepseek的同题诗/img1.jpg)
 
 #  终于难倒AI，deepseek的同题诗
 
@@ -11,7 +16,7 @@ __ _ _ _ _
 
 在老家过年
 
-![](https://mmbiz.qpic.cn/sz_mmbiz_jpg/hVNLue76Eh9ticGXZCmnZic5MhzhefZpbIJiclh5HvUyeWziclVfgfLqlvvg9bf9tg8wBT9LhUjPuyMHuJfABoqaUw/640?wx_fmt=jpeg)
+![](20250209终于难倒AIdeepseek的同题诗/img2.jpg)
 
 自拍照片
 
@@ -106,7 +111,7 @@ __ _ _ _ _
 
   
 
-![](https://mmbiz.qpic.cn/sz_mmbiz_jpg/hVNLue76Eh9ticGXZCmnZic5MhzhefZpbIMW9C4hMIXC2NdjibCwRbYibtCib0eZc1HZkfLHhb5aoaGLtytkic5F2ibbA/640?wx_fmt=jpeg)
+![](20250209终于难倒AIdeepseek的同题诗/img3.jpg)
 
 自拍照片
 
@@ -176,7 +181,7 @@ __ _ _ _ _
 
   
 
-![](https://mmbiz.qpic.cn/sz_mmbiz_jpg/hVNLue76Eh9ticGXZCmnZic5MhzhefZpbIFSHx1o2yYuibVDbYOInj8IE4ZiaaetgASKeojg8GuibiblT9lib34C7giaXg/640?wx_fmt=jpeg)
+![](20250209终于难倒AIdeepseek的同题诗/img4.jpg)
 
 自拍照片
 
@@ -257,7 +262,7 @@ __ _ _ _ _
 
 __
 
-![作者头像](http://mmbiz.qpic.cn/mmbiz_png/hVNLue76EhibricgkQZeT964ria54dgJkqVBX9ibyvn7PmGOltlupHdVshOibeQZDSypqiaIBNKdw8cwXfXfBZkPVgVg/0?wx_fmt=png)
+![作者头像](shared/img1.png)
 
 微信扫一扫可打开此内容，  
 使用完整服务
@@ -267,109 +272,109 @@ __
 
 精选留言
 
-![](http://wx.qlogo.cn/mmopen/PiajxSqBRaEL7x3US9CYz6NicMcPE4dTlMkxhw8jRfI1nWkrZHm3aGV9xVmiahfNQiblaicGz0icvjiak9gLllTtrBew5t9CSicMEgUTC96iaMKDtQenKFeLL5ibhujN4eFboIentB/64)
+![](20250209终于难倒AIdeepseek的同题诗/img5.jpg)
 
 unicorn来自广东
 
 [强][强][强]
 
-![](http://wx.qlogo.cn/mmhead/Q3auHgzwzM4ELPv9zSiaIDouClt0fOcfibXKFibPXptvGvnLVF6qUCyQg/64)
+![](shared/img4.jpg)
 
 石买生的自留地来自
 
 [握手][玫瑰]
 
-![](http://wx.qlogo.cn/mmopen/zGMQ7uVeU4UfMNCvCO8xjwnLzT2ZNx8srJhFo5uIWicVHXrcoMcX1Vicp5iaLhxXEpxTHRt77XbiabpCclHxGkMGh7mDO4bAI1CdEbJglnOHicSicVM2kcys4fj1iaeX6yx3cFW/64)
+![](20250209终于难倒AIdeepseek的同题诗/img6.jpg)
 
 山截来自广东
 
 真人写的诗里面我感觉有记忆的风味，而ai写诗的话更像在一块素布上织蕾丝
 
-![](http://wx.qlogo.cn/mmhead/Q3auHgzwzM4ELPv9zSiaIDouClt0fOcfibXKFibPXptvGvnLVF6qUCyQg/64)
+![](shared/img4.jpg)
 
 石买生的自留地来自
 
 比喻生动形象，很在理啊
 
-![](http://wx.qlogo.cn/mmopen/Qt20qX8fhAWTrsVvW7ibhFL8ic83MJXW2umxV3X32qDdAv9ZjFk20LvKcL7xr3CMy2mXkZGvic3cmYKMWxichme0kOz3lMLkgOOGNGgSvemI94WIAdUxQwNbA0QYkSLl1yeX/64)
+![](20250209终于难倒AIdeepseek的同题诗/img7.jpg)
 
 白白来自广东
 
 [强][强][强]ai其实是用同义替换、多句打散重组，把名家作品中的意象杂糅到一起显得只是词藻的堆砌了
 
-![](http://wx.qlogo.cn/mmhead/Q3auHgzwzM4ELPv9zSiaIDouClt0fOcfibXKFibPXptvGvnLVF6qUCyQg/64)
+![](shared/img4.jpg)
 
 石买生的自留地来自
 
 精辟[强][玫瑰]
 
-![](http://wx.qlogo.cn/mmopen/qE9MKluetOmZ1yMUbuggcxrZqAiafTGEMf61MqDyYEUO3ccLZUKA3iacXVJhrmb7AZeTl7htsBstTc3Jia7lRWcADCTEzCGno6ZpjAIDKRpPzfXDEU5lYrBv7WSoAXMuEcH/64)
+![](20250209终于难倒AIdeepseek的同题诗/img8.jpg)
 
 ZZF来自广东
 
 AI毕竟是AI，哪里有诗人的独特感受
 
-![](http://wx.qlogo.cn/mmhead/Q3auHgzwzM4ELPv9zSiaIDouClt0fOcfibXKFibPXptvGvnLVF6qUCyQg/64)
+![](shared/img4.jpg)
 
 石买生的自留地来自
 
 的确如此
 
-![](http://wx.qlogo.cn/mmopen/Tk1iciaI19LTbAAU44BxZeF0iasqR4GWaicL3sVozwichZNSRpodSpKVXPLibvjHgxvnjHlBuV1uPltBrVZTIzWjauOF0DOjBWMRFz/64)
+![](shared/img90.jpg)
 
 石来自广东
 
 当人类赋予Ai思考能力的时候，那真的可怕。
 
-![](http://wx.qlogo.cn/mmopen/qE9MKluetOkw7TAEGZuR5aRqgcpcwxkiaaIVX86VicYJWUGbuA48UNaYd5vhDTCicuMyticxAVpYFSCMibQLZyubg0r1NlDxQhep0/64)
+![](shared/img43.jpg)
 
 老 安来自上海
 
 老买的诗，宣告着AI时代的到来
 
-![](http://wx.qlogo.cn/mmhead/Q3auHgzwzM4ELPv9zSiaIDouClt0fOcfibXKFibPXptvGvnLVF6qUCyQg/64)
+![](shared/img4.jpg)
 
 石买生的自留地来自
 
 [握手][咖啡]
 
-![](http://wx.qlogo.cn/mmopen/qE9MKluetOnHRMjbjw0kUL4orzd4zP0GwjfylicTTv1cFtQrbYB11EwWf3EgpDwh2UiaLLJh51BibOOp5Hxxm0XDlHHkMlRju1U8DFeRQ9V7bPBEEWxwicUzxWibCIFCcEWYG/64)
+![](20250209终于难倒AIdeepseek的同题诗/img9.jpg)
 
 NaAlO₂来自广东
 
 老师好厉害
 
-![](http://wx.qlogo.cn/mmopen/Q3auHgzwzM533RRfuibEJk5po8lxzI2BGqp33HN53M5bECtanOiatDjFnxepxUcBRXqaxorUZEOcXRf5XXhFpOOUBhTF4JZNdR4hgOpObTZyQ/64)
+![](shared/img12.jpg)
 
 Forrest来自河南
 
 字数多的是AI写的
 
-![](http://wx.qlogo.cn/mmhead/Q3auHgzwzM4ELPv9zSiaIDouClt0fOcfibXKFibPXptvGvnLVF6qUCyQg/64)
+![](shared/img4.jpg)
 
 石买生的自留地来自
 
 [强][玫瑰]
 
-![](http://wx.qlogo.cn/mmopen/PiajxSqBRaEIFHpbZ36ueGon1hiasGBIENKZxMTmSuPvU0xpFJaXLMQh7MO03AwbqXIwd9kQmSfeibMoCGCiaxPfeOAV5VwReh97zt7OvR6OrwZ0aaYwiaEcygf4WZBj9ibWv8/64)
+![](shared/img102.jpg)
 
 妳.来自广东
 
 我猜Ai所作的第一篇是第二份，第二篇是第一份，对吗[破涕为笑]
 
-![](http://wx.qlogo.cn/mmhead/Q3auHgzwzM4ELPv9zSiaIDouClt0fOcfibXKFibPXptvGvnLVF6qUCyQg/64)
+![](shared/img4.jpg)
 
 石买生的自留地来自
 
 [强]
 
-![](http://wx.qlogo.cn/mmopen/PiajxSqBRaEIFHpbZ36ueGon1hiasGBIENKZxMTmSuPvU0xpFJaXLMQh7MO03AwbqXIwd9kQmSfeibMoCGCiaxPfeOAV5VwReh97zt7OvR6OrwZ0aaYwiaEcygf4WZBj9ibWv8/64)
+![](shared/img102.jpg)
 
 妳.来自广东
 
 服务器繁忙的问题我也遇到过，是这样的，每次对话发第三句时就服务器繁忙，大概是用户太多了，有时候重新进入，进行新的对话，就可以把刚刚的信息发给他了
 
-![](http://wx.qlogo.cn/mmhead/Q3auHgzwzM4ELPv9zSiaIDouClt0fOcfibXKFibPXptvGvnLVF6qUCyQg/64)
+![](shared/img4.jpg)
 
 石买生的自留地来自
 

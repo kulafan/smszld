@@ -1,7 +1,12 @@
 ---
-abbrlink: '0'
+title: Notnecessary
+tags: []
+categories: []
+abbrlink: caf93f73
+date: 2022-11-13 12:00:00
 ---
-![cover_image](http://mmbiz.qpic.cn/mmbiz_jpg/hVNLue76EhibpDVIFTELibCuMVKEvfhGv69OK7bRFCZ2HeZFB6FX0acASC8YRibqbmxkma7ib3iaFkXtPSiaNrmBic2oQ/0?wx_fmt=jpeg)
+
+![cover_image](20221113Notnecessary/img1.jpg)
 
 #  Not necessary
 
@@ -13,7 +18,7 @@ Not necessary
 
   
 
-![](https://mmbiz.qpic.cn/mmbiz_png/hVNLue76EhibpDVIFTELibCuMVKEvfhGv6lib1OsOaic2b9N089aY9AW9px2AaqsSC1I8OY8LI5sOSeBR2PFgRjzjw/640?wx_fmt=png)
+![](20221113Notnecessary/img2.png)
 ​
 
 达利名画
@@ -122,7 +127,7 @@ Not necessary
 
   
 
-![](https://mmbiz.qpic.cn/mmbiz_png/hVNLue76EhibpDVIFTELibCuMVKEvfhGv63jz8OwiaDqKByWS6jDO05P5ib2iaZJpiaH0zYYLcVnNRmDBrIlUPXgvADQ/640?wx_fmt=png)
+![](20221113Notnecessary/img3.png)
 ​
 
 达利名画
@@ -238,7 +243,7 @@ Not necessary
 
 __
 
-![作者头像](http://mmbiz.qpic.cn/mmbiz_png/hVNLue76EhibricgkQZeT964ria54dgJkqVBX9ibyvn7PmGOltlupHdVshOibeQZDSypqiaIBNKdw8cwXfXfBZkPVgVg/0?wx_fmt=png)
+![作者头像](shared/img1.png)
 
 微信扫一扫可打开此内容，  
 使用完整服务
@@ -248,37 +253,37 @@ __
 
 精选留言
 
-![](http://wx.qlogo.cn/mmopen/0csZtXb7CRWfKb2ib2riaRcHiaQdvbBFSo5XzgvJrfjPJqNiaicTNroH1HOWI7wMyLsqSDor6UK81ck8ibgnPenTwzA2ukl0oRQrMp/64)
+![](shared/img16.jpg)
 
 吴丰强来自广东
 
 淤泥一样的生活
 
-![](http://wx.qlogo.cn/mmhead/Q3auHgzwzM4ELPv9zSiaIDouClt0fOcfibXKFibPXptvGvnLVF6qUCyQg/64)
+![](shared/img4.jpg)
 
 石买生的自留地来自
 
 [咖啡]
 
-![](http://wx.qlogo.cn/mmopen/Tk1iciaI19LTaVJzIEHjgPh0oVopibP5nQRUcKZicLK6RColOiccyeFBibR2ZrQ9bdGbw43tWXkCoKH3TEkg6ums3S74GHJ54icCPzL/64)
+![](20221113Notnecessary/img4.jpg)
 
 周涛来自江西
 
 哪三个字？
 
-![](http://wx.qlogo.cn/mmhead/Q3auHgzwzM4ELPv9zSiaIDouClt0fOcfibXKFibPXptvGvnLVF6qUCyQg/64)
+![](shared/img4.jpg)
 
 石买生的自留地来自
 
 非必要[握手]
 
-![](http://wx.qlogo.cn/mmopen/zGMQ7uVeU4UHFF6s5FIoL3BG08mXNx61xviabtXG664iaTgKbKibDTAWXnhVdufSIbcg5E8ftl1mIdEDwHq57ZxTUTG1kwlr6IN/64)
+![](shared/img48.jpg)
 
 秀波来自江西
 
 石老师 怒了[脸红]
 
-![](http://wx.qlogo.cn/mmhead/Q3auHgzwzM4ELPv9zSiaIDouClt0fOcfibXKFibPXptvGvnLVF6qUCyQg/64)
+![](shared/img4.jpg)
 
 石买生的自留地来自
 
