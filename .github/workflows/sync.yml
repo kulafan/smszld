@@ -1,4 +1,4 @@
-name: Sync Notion to Hexo
+name: "Sync Notion to Hexo"
 
 on:
   schedule:
