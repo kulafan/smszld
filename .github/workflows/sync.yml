@@ -2,35 +2,36 @@ name: Sync Notion to Hexo
 
 on:
   schedule:
-    - cron: '0 * * * *'  # 
+    - cron: "0 * * * *"  # 
   workflow_dispatch:     # 
 
 jobs:
   sync-and-deploy:
     runs-on: ubuntu-latest
+    
     steps:
-      # 1 main Hexo
+      # 1main
       - name: Checkout main branch
         uses: actions/checkout@v3
         with:
-          ref: main  #  main 
+          ref: main
 
-      # 2 Node.js 
+      # 2Node.js
       - name: Setup Node.js
         uses: actions/setup-node@v3
         with:
-          node-version: 18
+          node-version: "18"  # 
 
-      # 3 Hexo 
+      # 3
       - name: Install dependencies
         run: |
           npm install -g hexo-cli
           npm install
-          npm install @notionhq/client  #  Notion 
+          npm install @notionhq/client
 
-      # 4 Notion 
+      # 4
       - name: Run Notion sync
-        run: node sync.js  #  Notion 
+        run: node sync.js
         env:
           NOTION_TOKEN: ${{ secrets.NOTION_TOKEN }}
           NOTION_DATABASE_ID: ${{ secrets.NOTION_DATABASE_ID }}
@@ -41,11 +42,11 @@ jobs:
           hexo clean
           hexo generate
 
-      # 6 pages 
+      # 6pages
       - name: Deploy to pages branch
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./public  # Hexo 
-          publish_branch: pages   # 
-          keep_files: false       #  pages 
+          publish_dir: ./public
+          publish_branch: pages
+          keep_files: false
