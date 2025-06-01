@@ -1,34 +1,72 @@
 const { Client } = require('@notionhq/client');
+const fs = require('fs');
+const path = require('path');
 
-// 初始化客户端（必须添加版本）
 const notion = new Client({
   auth: process.env.NOTION_TOKEN,
-  // 关键修复：添加Notion版本
   notionVersion: '2022-06-28'
 });
 
-// 验证数据库ID格式
-const databaseId = process.env.NOTION_DATABASE_ID;
-if (!/^[a-f0-9]{32}$/.test(databaseId)) {
-  throw new Error('Invalid Notion Database ID format');
-}
-
-async function getPosts() {
+async function syncNotionToHexo() {
   try {
+    // 1. 获取文章列表
     const response = await notion.databases.query({
-      database_id: databaseId,
+      database_id: process.env.NOTION_DATABASE_ID,
       filter: {
         property: 'Published',
         checkbox: {
-          equals: true,
-        },
-      },
+          equals: true
+        }
+      }
     });
-    return response.results;
+
+    // 2. 确保获取到数据
+    if (!response.results || response.results.length === 0) {
+      console.log('没有找到已发布的文章');
+      return;
+    }
+
+    // 3. 处理每篇文章
+    for (const post of response.results) {  // 这里正确定义post
+      try {
+        const title = post.properties.Title?.title[0]?.plain_text || 'Untitled';
+        const date = post.properties.Date?.date?.start || new Date().toISOString();
+        
+        // 生成文件名
+        const fileName = `${title.toLowerCase().replace(/[^\w]/g, '-')}.md`;
+        const filePath = path.join('source/_posts', fileName);
+
+        // 获取文章内容
+        const blocks = await notion.blocks.children.list({
+          block_id: post.id
+        });
+
+        // 生成Markdown内容
+        let content = `---
+title: "${title}"
+date: ${date}
+---\n\n`;
+
+        blocks.results.forEach(block => {
+          if (block.type === 'paragraph') {
+            content += block.paragraph.rich_text.map(t => t.plain_text).join('') + '\n\n';
+          }
+          // 可以添加其他block类型的处理
+        });
+
+        // 写入文件
+        fs.writeFileSync(filePath, content);
+        console.log(`成功生成: ${fileName}`);
+        
+      } catch (error) {
+        console.error(`处理文章时出错: ${error.message}`);
+      }
+    }
   } catch (error) {
-    console.error('API请求失败:', error);
-    throw error;
+    console.error(`同步失败: ${error.message}`);
+    process.exit(1);
   }
 }
 
-// 其余代码保持不变...
+// 执行同步
+syncNotionToHexo();
