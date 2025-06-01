@@ -1,0 +1,50 @@
+name: "Notion to Hexo Sync"
+
+on:
+  schedule:
+    - cron: "0 * * * *"  # 每小时运行
+  workflow_dispatch:     # 允许手动触发
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      # 步骤1：检出代码
+      - name: Checkout
+        uses: actions/checkout@v3
+        with:
+          ref: "main"  # 你的源码分支
+
+      # 步骤2：设置Node.js
+      - name: Setup Node
+        uses: actions/setup-node@v3
+        with:
+          node-version: "18"
+
+      # 步骤3：安装依赖
+      - name: Install Dependencies
+        run: |
+          npm install -g hexo-cli
+          npm install
+          npm install @notionhq/client
+
+      # 步骤4：同步Notion
+      - name: Sync from Notion
+        run: node sync.js
+        env:
+          NOTION_TOKEN: ${{ secrets.NOTION_TOKEN }}
+          NOTION_DATABASE_ID: ${{ secrets.NOTION_DATABASE_ID }}
+
+      # 步骤5：生成静态文件
+      - name: Generate Site
+        run: |
+          hexo clean
+          hexo generate
+
+      # 步骤6：部署到GitHub Pages
+      - name: Deploy to Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./public
+          publish_branch: pages  # 你的发布分支
